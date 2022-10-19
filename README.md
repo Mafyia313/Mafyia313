@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/IG-%40Mafyia313-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mafyia313)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100008717082810)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+923200596325)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/Mafyia313)
+[![Github](https://img.shields.io/badge/Github-Mafyia313green?style=for-the-badge&logo=github)](https://github.com/Mafyia313)
 
 ### ⚙️ &nbsp; Language & programming
 
