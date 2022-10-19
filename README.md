@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Instagram](https://img.shields.io/badge/IG-%40Mahadi.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
+[![Instagram](https://img.shields.io/badge/IG-%40Mafyia313-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mafyia313)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100008717082810)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+923200596325)
 [![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/Mafyia313)
@@ -124,6 +124,6 @@ Here are some ideas to get you started:
 
 ### Profile Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MAHADI-143.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mafyia313.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
