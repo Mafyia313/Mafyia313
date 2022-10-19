@@ -12,25 +12,25 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to Mahadi profile &nbsp;
+  &nbsp; Welcome to Mafyia313 profile &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mahadi+Hasan+Afridi;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mafyia313+Mr+Naib;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I am Form Pakistan My Reall Name Mr Naib</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mafyia313&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Mafyia313" /> </p>
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MAHADI-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
+<a href="https://github.com/Mafyia313"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Mafyia313&theme=monokai"></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MAHADI-143&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Mafyia313&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
